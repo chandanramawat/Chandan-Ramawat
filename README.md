@@ -23,7 +23,7 @@
   <a href="mailto:chandanramawat2023bca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Chandan-Ramawat">
+  <a href="https://github.com/chandanramawat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/chandan-ramawat">
@@ -68,16 +68,52 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanramawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanramawat&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chandanramawat&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanramawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=chandanramawat&theme=tokyonight&hide_border=true" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanramawat&layout=compact&theme=tokyonight&hide_border=true" width="28%" />
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Agent System</h3>
+      <p>Multi-agent system built with <strong>LangGraph</strong> featuring Human-in-the-Loop, Tool Calling & Streaming responses.</p>
+      <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🧠 RAG Pipeline</h3>
+      <p>Document intelligence system using <strong>RAG</strong> — upload any document and chat with it using LLMs.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔗 MCP Integration</h3>
+      <p>Model Context Protocol implementation connecting <strong>LLMs with external tools</strong> and APIs seamlessly.</p>
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📊 Data Analysis Dashboard</h3>
+      <p>Interactive <strong>Power BI dashboard</strong> with Python data processing — sales, trends & KPI tracking.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
+
 ## 🧠 Current Focus
 
 ```text
